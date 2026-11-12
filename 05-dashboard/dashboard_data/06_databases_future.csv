@@ -1,0 +1,11 @@
+Technology,Count,Rank
+PostgreSQL,12193,1
+Redis,6384,2
+SQLite,6295,3
+MySQL,6204,4
+MongoDB,5618,5
+Microsoft SQL Server,4345,6
+Elasticsearch,3665,7
+MariaDB,3078,8
+Dynamodb,2154,9
+Supabase,1623,10

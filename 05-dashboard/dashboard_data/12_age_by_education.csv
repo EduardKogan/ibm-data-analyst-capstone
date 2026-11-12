@@ -1,0 +1,62 @@
+Age,EdLevel,Count,SortOrder
+18-24 years old,Associate degree,132,2
+18-24 years old,Bachelor’s degree,1468,2
+18-24 years old,Master’s degree,299,2
+18-24 years old,Primary/elementary school,25,2
+18-24 years old,Professional degree,20,2
+18-24 years old,Secondary school,495,2
+18-24 years old,Some college/university study without earning a degree,496,2
+18-24 years old,Something else,53,2
+25-34 years old,Associate degree,231,3
+25-34 years old,Bachelor’s degree,3985,3
+25-34 years old,Master’s degree,2178,3
+25-34 years old,Primary/elementary school,30,3
+25-34 years old,Professional degree,157,3
+25-34 years old,Secondary school,288,3
+25-34 years old,Some college/university study without earning a degree,843,3
+25-34 years old,Something else,76,3
+35-44 years old,Associate degree,176,4
+35-44 years old,Bachelor’s degree,2115,4
+35-44 years old,Master’s degree,1685,4
+35-44 years old,Primary/elementary school,26,4
+35-44 years old,Professional degree,249,4
+35-44 years old,Secondary school,197,4
+35-44 years old,Some college/university study without earning a degree,665,4
+35-44 years old,Something else,36,4
+45-54 years old,Associate degree,68,5
+45-54 years old,Bachelor’s degree,783,5
+45-54 years old,Master’s degree,616,5
+45-54 years old,Primary/elementary school,7,5
+45-54 years old,Professional degree,153,5
+45-54 years old,Secondary school,70,5
+45-54 years old,Some college/university study without earning a degree,344,5
+45-54 years old,Something else,12,5
+55-64 years old,Associate degree,22,6
+55-64 years old,Bachelor’s degree,237,6
+55-64 years old,Master’s degree,196,6
+55-64 years old,Primary/elementary school,4,6
+55-64 years old,Professional degree,65,6
+55-64 years old,Secondary school,17,6
+55-64 years old,Some college/university study without earning a degree,88,6
+55-64 years old,Something else,3,6
+65 years or older,Associate degree,4,7
+65 years or older,Bachelor’s degree,25,7
+65 years or older,Master’s degree,22,7
+65 years or older,Primary/elementary school,2,7
+65 years or older,Professional degree,13,7
+65 years or older,Secondary school,1,7
+65 years or older,Some college/university study without earning a degree,7,7
+65 years or older,Something else,1,7
+Prefer not to say,Bachelor’s degree,11,8
+Prefer not to say,Master’s degree,4,8
+Prefer not to say,Professional degree,2,8
+Prefer not to say,Secondary school,2,8
+Prefer not to say,Some college/university study without earning a degree,3,8
+Prefer not to say,Something else,2,8
+Under 18 years old,Associate degree,1,1
+Under 18 years old,Bachelor’s degree,5,1
+Under 18 years old,Primary/elementary school,38,1
+Under 18 years old,Professional degree,2,1
+Under 18 years old,Secondary school,73,1
+Under 18 years old,Some college/university study without earning a degree,10,1
+Under 18 years old,Something else,7,1

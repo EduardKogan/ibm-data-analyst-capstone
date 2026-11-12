@@ -1,0 +1,16 @@
+# Jupyter
+.ipynb_checkpoints/
+__pycache__/
+
+# Raw survey data (large; downloaded by the notebooks)
+survey-data*.csv
+survey_data*.csv
+cleaned_survey_data.csv
+*.sqlite
+*.db
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
